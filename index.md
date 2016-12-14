@@ -1,5 +1,4 @@
 # UInergy Heat Sinking
 
-## Topics
-
-.1 [Power Dissipation](power_dissipation.md)
+1. [Power Dissipation](power_dissipation.md)
+2. [Heat Sink Selection](heat_sink.md)
